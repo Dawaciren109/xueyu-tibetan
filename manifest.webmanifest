@@ -1,0 +1,10 @@
+{
+  "name": "雪域语 · 藏语助手",
+  "short_name": "雪域语",
+  "description": "藏汉双语日常短语与学习工具",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#21385f",
+  "lang": "zh-CN"
+}
